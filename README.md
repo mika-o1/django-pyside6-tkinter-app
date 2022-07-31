@@ -1,0 +1,1 @@
+# django-pyside6-tkinter-app
